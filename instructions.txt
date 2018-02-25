@@ -1,0 +1,4 @@
+addi $t1, 2
+addi $t2, 3
+add $t1, $t2
+j 200
